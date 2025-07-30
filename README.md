@@ -14,7 +14,7 @@ A responsive and modern frontend clone of Flipkart built using **React.js** and 
 ## 🖼️ Screenshots
 
 ### 🏠 Homepage
- ![Homepage Preview](Screenshot 2025-07-30 214820.png)
+ ![Homepage Preview](Flipkart-frontend/Screenshot 2025-07-30 214639.png)
 
 
 ## 🛠️ Tech Stack
