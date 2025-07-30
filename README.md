@@ -11,11 +11,6 @@ A responsive and modern frontend clone of Flipkart built using **React.js** and 
 - 📱 Mobile responsive  
 - 🎨 Styled using Material-UI
 
-## 🖼️ Screenshots
-
-### 🏠 Homepage
- ![Homepage Preview](Flipkart-frontend/Screenshot 2025-07-30 214639.png)
-
 
 ## 🛠️ Tech Stack
 
@@ -25,4 +20,35 @@ A responsive and modern frontend clone of Flipkart built using **React.js** and 
 - **Routing**: React Router
 
 ## 📁 Project Structure
+Flipkart-frontend/
+│
+├── public/ # Static assets
+├── src/
+│ ├── App.js # Main application component
+│ ├── Header.js # Top navigation bar
+│ ├── Home.js # Homepage layout
+│ ├── Login.js # Login UI
+│ ├── Signup.js # Signup form component
+│ ├── Product.js # Product display component
+│ ├── Cart.js # Cart UI component
+│ ├── Crousal.js # Image/banner carousel component
+│ ├── style.css # Global styles
+│ ├── index.js # React entry point
+│
+└── package.json # Project dependencies and scripts
+
+## 🧑‍💻 Getting Started
+
+### Prerequisites
+
+- Node.js (v16 or above)
+- npm or yarn
+
+### Installation
+
+```bash
+git clone https://github.com/shubham010-dev/Flipkart-frontend.git
+cd Flipkart-frontend
+npm install
+npm start
 
