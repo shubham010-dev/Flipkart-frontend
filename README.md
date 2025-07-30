@@ -20,6 +20,7 @@ A responsive and modern frontend clone of Flipkart built using **React.js** and 
 - **Routing**: React Router
 
 ## 📁 Project Structure
+```
 Flipkart-frontend/
 │
 ├── public/ # Static assets
@@ -36,6 +37,7 @@ Flipkart-frontend/
 │ ├── index.js # React entry point
 │
 └── package.json # Project dependencies and scripts
+```
 
 ## 🧑‍💻 Getting Started
 
